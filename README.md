@@ -1,0 +1,1 @@
+Reference: 	Kai Zeng, Z. Xu, Y. Yang, Y. Liu, H. Zhao, Y. Zhang, B. Xie, W. Zhou, C. Li, and W. Cao, 2022. "In situ hyperspectral characteristics and the discriminative ability of remote sensing to coral species in the South China Sea." GIScience & Remote Sensing, 59:1, 272-294. DOI: 10.1080/15481603.2022.2026641.
